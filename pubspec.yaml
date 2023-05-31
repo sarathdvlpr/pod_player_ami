@@ -11,11 +11,14 @@ dependencies:
   flutter:
     sdk: flutter
   # services
+  universal_html:
+    git:
+      url: https://github.com/sarathdvlpr/universal_html_pod.git
   video_player: ^2.6.1
   http: ^0.13.6  
   get: ^4.6.5  
   wakelock: ^0.6.2 
-  universal_html: ^2.2.1 
+   
   youtube_explode_dart: ^1.12.4
 dev_dependencies:
   flutter_test:
